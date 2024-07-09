@@ -1,0 +1,9 @@
+NAME={your name here}
+WFO={your local WFO location here}
+LOCATION_X={your location's X coordinate here}
+LOCATION_Y={your location's Y coordinate here}
+OPENAI_API_KEY={your OpenAI API key here}
+TO_EMAIL={your recipient email here}
+FROM_EMAIL={your sending email here}
+FROM_EMAIL_PASSWORD={your sending email's password here}
+SMTP_SERVER={your relevant SMTP server here}
